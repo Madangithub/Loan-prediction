@@ -14,4 +14,4 @@ The borrower then makes monthly payments back to Lending Club either over 36 mon
 While Lending Club has to be extremely savvy and rigorous with their credit modelling, investors on Lending Club need to be equally as savvy about determining which loans are more likely to be paid off. While at first, you may wonder why investors would put money into anything but low interest loans. The incentive investors have to back higher interest loans is, well, the higher interest! If investors believe the borrower can pay back the loan, even if he or she has a weak financial history, then investors can make more money through the larger additional amount the borrower has to pay.
 
 Most investors use a portfolio strategy to invest small amounts in many loans, with healthy mixes of low, medium, and interest loans.
-we'll focus on the mindset of a conservative investor who only wants to invest in the loans that have a good chance of being paid off on time.
+I haved focused on the mindset of a conservative investor who only wants to invest in the loans that have a good chance of being paid off on time.
